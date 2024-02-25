@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @HsuThanSin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-HsuThanSin/HsuThanSin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Hsu Than Sin 
+- 👀 I’m interested in coding 
+- 🎓 Currently pursuing a Bachelor's degree in King Mongkut's University of Technology North Bangkok (KMUTNB) 
+- 🌱 I'm focused on improving my skills in Python, Java Script, ReactJS 
+- 💞️ I’m looking to collaborate on making meaningful project 
+- 📫 You can reach me hsuthansin01.th@gmail.com 
+- ⚡ Fun fact: When I'm not coding, you can find me gaming in my room 
